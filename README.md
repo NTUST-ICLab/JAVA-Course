@@ -28,7 +28,6 @@
 * Unit1 Lab07 Ans: https://youtu.be/8qNiUXy1GBE
 * Unit1 Lab08 Ans: https://youtu.be/GviJpIeKKGM
 * Unit1 Lab09 Ans: https://youtu.be/PFXOT78Nr9c
-
 * Unit1 Lab10: https://youtu.be/3RZJST76yNs
 * Unit1 Lab10 Ans: https://youtu.be/_K_jnKpUrwU
 
@@ -36,10 +35,8 @@
 * Unit1 Lab11-12: https://youtu.be/IVBUThXbZk8
 * Unit1 Lab11 Ans: https://youtu.be/0n5xWr-uH5Q
 * Unit1 Lab12 Ans: https://youtu.be/fHFhcCOAwHM
-
 * MapBuilder: https://youtu.be/5L5TknNHq2c
 * EclipseDebug: https://youtu.be/nBfycTLG814
-
 * Unit1 Lab14-16: https://youtu.be/Xj3WybMRCso
 * Unit1 Lab14 Ans: https://youtu.be/_a2wp4HV88E
 * Unit1 Lab15 Ans: https://youtu.be/ql3FNvX7D6o
@@ -72,29 +69,21 @@
 #### Section 03: Animation
 * Unit2 Lab10: https://youtu.be/9PHcQGkXcrg
 * Unit2 Lab10 Ans: https://youtu.be/1cmXP8TyleI
-
 * Unit2 Lab11-13: https://youtu.be/l8w4jkCQmyo
 * Unit2 Lab11 Ans: https://youtu.be/p4QWAfPdSyA
 * Unit2 Lab12 Ans: https://youtu.be/QExLpOqW7pE
 * Unit2 Lab13 Ans: https://youtu.be/7WoreJKprZ4
-
 * Unit2 Lab14: https://youtu.be/KzaSQDCLuy8
 * Unit2 Lab14 Ans: https://youtu.be/C5ZdmPtLdRk
-
 * Unit2 Lab15: https://youtu.be/4GdP0-1Asj8
 * Unit2 Lab15 Ans: https://youtu.be/L-Mc4aYRKYE
-
 * Unit2 Lab16: https://youtu.be/U-DnIXry8Ys
 * Unit2 Lab16 Ans: https://youtu.be/xZPVTnAD8Rc
-
 * Unit2 Lab17: https://youtu.be/Us9_71Xy-fs
 * Unit2 Lab17 Ans: https://youtu.be/PnF86CRc818
-
 * Unit2 Lab18: https://youtu.be/NosC7cgiZ2M
 * Unit2 Lab18 Ans: https://youtu.be/nVob8LcjD3Y
-
 * Unit2 Lab19: https://youtu.be/gvSU9uLLQ50
 * Unit2 Lab19 Ans: https://youtu.be/5nix9Gk229I
-
 * Unit2 Lab20: https://youtu.be/OKsBctfzupQ
 * Unit2 Lab20 Ans: https://youtu.be/whV2U2TtjKs
