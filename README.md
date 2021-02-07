@@ -3,13 +3,14 @@
 * 本課程分為正課與實習課，正課講解概念，實習是寫程式。
 <!----註解符號，不顯示--->
 <!---原課程網頁: http://ntustee303.weebly.com/ --->
+<!----安裝教學與DEMO--->
 ## Eclipse and CourseDemo
 #### 安裝Eclipse以及 JAVA八成品操作教學
 * 安裝教學影片連結: https://youtu.be/qQdqUktkSkM
 * Lab00-Lab01執行結果: https://youtu.be/_20XJ5_ud2Q
 * Lab00 Ans: https://youtu.be/TnicxohFT5o
 * Lab01 Ans: https://youtu.be/9_czB2AxUv4
-
+<!----Unit 1--->
 ## Unit1: fcps Karel
 #### Section 01: Classes and Objects
 * Unit1 Lab02-Lab04: https://youtu.be/gQuvM7UeL5U
@@ -50,7 +51,7 @@
 * Unit1 Lab17 Ans: https://youtu.be/JlO4Hy7-7F8
 * Unit1 Lab18 Ans: https://youtu.be/e7AMhJNnv1g
 * Unit1 Lab19 Ans: https://youtu.be/b2m8vkAvkTI
-
+<!----Unit 2--->
 ## Unit2: Graphics and Animation
 #### Section 01: Graphics
 * Unit2 Lab00-03: https://youtu.be/Djg3uGO05_E
