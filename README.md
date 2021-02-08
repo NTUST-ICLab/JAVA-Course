@@ -93,7 +93,7 @@
     * Unit2 Lab18: https://youtu.be/NosC7cgiZ2M
     * Unit2 Lab19: https://youtu.be/gvSU9uLLQ50
     * Unit2 Lab20: https://youtu.be/OKsBctfzupQ
-*解答影片
+* 解答影片
     * Unit2 Lab10 Ans: https://youtu.be/1cmXP8TyleI
     * Unit2 Lab11 Ans: https://youtu.be/p4QWAfPdSyA
     * Unit2 Lab12 Ans: https://youtu.be/QExLpOqW7pE
