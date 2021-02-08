@@ -24,6 +24,9 @@
 
 #### Section 02: Inheritance and Methods
 * 教學影片
+    * StaticMethods (2020.03.18) : https://youtu.be/Xw8PQTTKnUU
+    * FlowControl (2020.03.18) : https://youtu.be/h0YrJaoCghk
+    * JOptionPane (2020.03.18) : https://youtu.be/b7C1GgudBO8
     * Unit1 Lab05-Lab06 : https://youtu.be/JKUYIzvwuMw
 * 解答影片
     * Unit1 Lab05 Ans : https://youtu.be/kY5Gu4eCsQk
@@ -31,6 +34,8 @@
 
 #### Section 03: Algorithms and Polymorphism
 * 教學影片
+    * ClassTypeWithStringExample (== and .equals()) (2020.03.25) : https://youtu.be/mnF591f05FA
+    * Casting (Upcasting and Downcasting) (2020.03.25) : https://youtu.be/yu4ViYym9bE
     * Unit1 Lab07-Lab09 : https://youtu.be/vV4CyK9XonM
     * Unit1 Lab10 : https://youtu.be/3RZJST76yNs
 * 解答影片
@@ -41,6 +46,12 @@
 
 #### Section 04: Abstract Classes and Interfaces
 * 教學影片
+    * Algorithm (Lab10 Maze Escape) (2020.04.01) : https://youtu.be/hrQZZ3fefH8
+    * AnstractClassAndInterface (2020.04.01) : https://youtu.be/h4nolii0Mn8
+    * SingleTreadToMultiThread (2020.04.08) : https://youtu.be/JiZIQ_5-oAU
+    * Thread (2020.04.08) : https://youtu.be/TDnTPdUwK6s
+    * Runnable (2020.04.08) : https://youtu.be/3NbPVlG2E7c
+    * Lab05Thread (2020.04.08) : https://youtu.be/2q3jhd-7RU4
     * Unit1 Lab11-12 : https://youtu.be/IVBUThXbZk8
     * MapBuilder : https://youtu.be/5L5TknNHq2c
     * EclipseDebug : https://youtu.be/nBfycTLG814
@@ -55,6 +66,9 @@
 #### Section 05: Return, break, and continue
 #### Appendix: Array and Recursive
 * 教學影片
+    * BreakContinueReturn (2020.04.15) : https://youtu.be/DTPBTcHmKsI
+    * Recursive (2020.04.15) : https://youtu.be/x0r6EkhOxGU
+    * RecursiveAdvanced (2020.04.15) : https://youtu.be/5HwQc-m7S9c
     * Unit1 Lab17-19 : https://youtu.be/gEEXK8TpK_Y
 * 解答影片
     * Unit1 Lab17 Ans : https://youtu.be/JlO4Hy7-7F8
@@ -64,6 +78,8 @@
 ## Unit2: Graphics and Animation
 #### Section 01: Graphics
 * 教學影片
+    * Unit2GUIOverView (2020.04.22) : https://youtu.be/3pCpb8Kn2cs
+    * JFrameJPanel (2020.04.22) : https://youtu.be/j96CGdLqKPE
     * Unit2 Lab00-03 : https://youtu.be/Djg3uGO05_E
 * 解答影片
     * Unit2 Lab00 Ans : https://youtu.be/ZSY4NcphR6Q
@@ -86,6 +102,9 @@
 * 教學影片
     * Unit2 Lab10 : https://youtu.be/9PHcQGkXcrg
     * Unit2 Lab11-13 : https://youtu.be/l8w4jkCQmyo
+    * CodingJPanel (2020.05.13) : https://youtu.be/VZA6S4GWnrQ
+    * UMLOnFCPS (2020.05.20) : https://youtu.be/c-HmivGFX6Y
+    * MousePanel (2020.05.20) : https://youtu.be/C17-cuq9GXE
     * Unit2 Lab14 : https://youtu.be/KzaSQDCLuy8
     * Unit2 Lab15 : https://youtu.be/4GdP0-1Asj8
     * Unit2 Lab16 : https://youtu.be/U-DnIXry8Ys
@@ -93,6 +112,7 @@
     * Unit2 Lab18 : https://youtu.be/NosC7cgiZ2M
     * Unit2 Lab19 : https://youtu.be/gvSU9uLLQ50
     * Unit2 Lab20 : https://youtu.be/OKsBctfzupQ
+    * Packaging and accessing runtime resources in a runnable jar : https://youtu.be/RusMB6R5DJ0
 * 解答影片
     * Unit2 Lab10 Ans : https://youtu.be/1cmXP8TyleI
     * Unit2 Lab11 Ans : https://youtu.be/p4QWAfPdSyA
