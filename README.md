@@ -125,3 +125,13 @@
     * Unit2 Lab18 Ans : https://youtu.be/nVob8LcjD3Y
     * Unit2 Lab19 Ans : https://youtu.be/5nix9Gk229I
     * Unit2 Lab20 Ans : https://youtu.be/whV2U2TtjKs
+
+## Final Project
+#### 星際大戰
+* 影片連結
+    * JAVA 期末專題-星際大戰01 : https://youtu.be/9Wmr_NOfTrQ
+    * JAVA 期末專題-星際大戰02 : https://youtu.be/qN_D1NXZmQI 
+#### 星際大戰
+* 影片連結
+    * JAVA 期末專題-俄羅斯方塊01 : https://youtu.be/trfR_Z98Ob0
+    * JAVA 期末專題-俄羅斯方塊02 : https://youtu.be/GiY0LoWeclU
