@@ -126,7 +126,7 @@
     * Unit2 Lab19 Ans : https://youtu.be/5nix9Gk229I
     * Unit2 Lab20 Ans : https://youtu.be/whV2U2TtjKs
 
-## Final Project
+## Final Project Demo
 #### 星際大戰
 * 影片連結
     * JAVA 期末專題-星際大戰01 : https://youtu.be/9Wmr_NOfTrQ
