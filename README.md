@@ -10,7 +10,9 @@
     * JAVA程式教材文件 : https://drive.google.com/file/d/0B8kdK4ZGdqBlR01sS1hIYnVXY1k/view 
     * JAVA程式八成品下載 : https://drive.google.com/file/d/0B3CpuhyoyGIXdzVJNEZhNWZoME0/view
 * 教學影片
-    * 安裝教學影片連結 : https://youtu.be/qQdqUktkSkM
+    #### 本學期JAVA課程 JAVA-JDK版本為15.0.2 , Eclipse版本為2020.12
+    * 安裝教學影片連結 (2021.02.23): https://youtu.be/warLHO9zm6k  
+    * 安裝教學影片連結 (2020.02.05): https://youtu.be/qQdqUktkSkM
     * Lab00-Lab01執行結果 : https://youtu.be/_20XJ5_ud2Q
 * 解答影片
     * Lab00 Ans: https://youtu.be/TnicxohFT5o
