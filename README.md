@@ -25,9 +25,9 @@
 
 * 解答影片
     * Unit1 Lab02 Ans : https://youtu.be/DPrmd2R8Qn4
-<!----
+
     * Unit1 Lab03 Ans : https://youtu.be/Y64VJ0i9ljU
-    * Unit1 Lab04 Ans : https://youtu.be/AzM2TqzJ0JA   --->
+    * Unit1 Lab04 Ans : https://youtu.be/AzM2TqzJ0JA   
 
 #### Section 02: Inheritance and Methods
 * 教學影片
@@ -35,10 +35,10 @@
     * FlowControl (2020.03.18) : https://youtu.be/h0YrJaoCghk
     * JOptionPane (2020.03.18) : https://youtu.be/b7C1GgudBO8
     * Unit1 Lab05-Lab06 : https://youtu.be/JKUYIzvwuMw
-<!----
+
 * 解答影片
     * Unit1 Lab05 Ans : https://youtu.be/kY5Gu4eCsQk
-    * Unit1 Lab06 Ans : https://youtu.be/ULHIGtv_-cw   --->
+    * Unit1 Lab06 Ans : https://youtu.be/ULHIGtv_-cw   
 
 #### Section 03: Algorithms and Polymorphism
 * 教學影片
