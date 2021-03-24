@@ -50,8 +50,7 @@
     * Unit1 Lab07 Ans : https://youtu.be/8qNiUXy1GBE
     * Unit1 Lab08 Ans : https://youtu.be/GviJpIeKKGM
     * Unit1 Lab09 Ans : https://youtu.be/PFXOT78Nr9c
-<!----
-    * Unit1 Lab10 Ans : https://youtu.be/_K_jnKpUrwU   --->
+    * Unit1 Lab10 Ans : https://youtu.be/_K_jnKpUrwU   
 
 #### Section 04: Abstract Classes and Interfaces
 * 教學影片
@@ -65,10 +64,11 @@
     * MapBuilder : https://youtu.be/5L5TknNHq2c
     * EclipseDebug : https://youtu.be/nBfycTLG814
     * Unit1 Lab14-16 : https://youtu.be/Xj3WybMRCso
-<!----
+
 * 解答影片
     * Unit1 Lab11 Ans : https://youtu.be/0n5xWr-uH5Q
     * Unit1 Lab12 Ans : https://youtu.be/fHFhcCOAwHM
+<!----
     * Unit1 Lab14 Ans : https://youtu.be/_a2wp4HV88E
     * Unit1 Lab15 Ans : https://youtu.be/ql3FNvX7D6o
     * Unit1 Lab16 Ans : https://youtu.be/RMog6hpbV3w   --->
