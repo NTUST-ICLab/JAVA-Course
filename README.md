@@ -68,10 +68,9 @@
 * 解答影片
     * Unit1 Lab11 Ans : https://youtu.be/0n5xWr-uH5Q
     * Unit1 Lab12 Ans : https://youtu.be/fHFhcCOAwHM
-<!----
     * Unit1 Lab14 Ans : https://youtu.be/_a2wp4HV88E
     * Unit1 Lab15 Ans : https://youtu.be/ql3FNvX7D6o
-    * Unit1 Lab16 Ans : https://youtu.be/RMog6hpbV3w   --->
+    * Unit1 Lab16 Ans : https://youtu.be/RMog6hpbV3w   
 
 #### Section 05: Return, break, and continue
 #### Appendix: Array and Recursive
