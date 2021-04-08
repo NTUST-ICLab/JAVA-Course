@@ -79,11 +79,11 @@
     * Recursive (2020.04.15) : https://youtu.be/x0r6EkhOxGU
     * RecursiveAdvanced (2020.04.15) : https://youtu.be/5HwQc-m7S9c
     * Unit1 Lab17-19 : https://youtu.be/gEEXK8TpK_Y
-<!----
+
 * 解答影片
     * Unit1 Lab17 Ans : https://youtu.be/JlO4Hy7-7F8
     * Unit1 Lab18 Ans : https://youtu.be/e7AMhJNnv1g
-    * Unit1 Lab19 Ans : https://youtu.be/b2m8vkAvkTI   --->
+    * Unit1 Lab19 Ans : https://youtu.be/b2m8vkAvkTI   
 <!----Unit 2--->
 ## Unit2: Graphics and Animation
 #### Section 01: Graphics
