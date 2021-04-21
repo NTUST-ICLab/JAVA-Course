@@ -95,9 +95,8 @@
 * 解答影片
     * Unit2 Lab00 Ans : https://youtu.be/ZSY4NcphR6Q
     * Unit2 Lab01 Ans : https://youtu.be/wUgsbvgHvO4
-<!----
     * Unit2 Lab02 Ans : https://youtu.be/dMf3VMIyTnA
-    * Unit2 Lab03 Ans : https://youtu.be/KbRz91NPcF8   --->
+    * Unit2 Lab03 Ans : https://youtu.be/KbRz91NPcF8   
 
 #### Section 02: Static vs Instance, Class vs Object
 * 教學影片
