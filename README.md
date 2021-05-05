@@ -101,14 +101,14 @@
 #### Section 02: Static vs Instance, Class vs Object
 * 教學影片
     * Unit2 Lab04-09 : https://youtu.be/yUaPivg5yu0
-<!----
+
 * 解答影片
     * Unit2 Lab04 Ans : https://youtu.be/a34gEq4s0Bo
     * Unit2 Lab05 Ans : https://youtu.be/e96wV1m8ZBo
     * Unit2 Lab06 Ans : https://youtu.be/6V-vHa9YcCE
     * Unit2 Lab07 Ans : https://youtu.be/wUNko-Td9o0
     * Unit2 Lab08 Ans : https://youtu.be/T58XcW3kj_4
-    * Unit2 Lab09 Ans : https://youtu.be/jO1hfZ1776o   --->
+    * Unit2 Lab09 Ans : https://youtu.be/jO1hfZ1776o   
 
 #### Section 03: Animation
 * 教學影片
